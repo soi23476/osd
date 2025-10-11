@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 
+# 수정연습(src 수정과제)
+
 # 1. 데이터 불러오기
 left_vals = []
 right_vals = []
