@@ -19,7 +19,7 @@ VL53L0X 레이저 거리 센서와 Arduino UNO를 이용하여
 | 전원 | USB 또는 배터리 (휴대형) |
 
 ## 시스템 구성 이미지
-![장치 예시 이미지](Fabulous Fyyran-Jaagub (2).png)
+![장치 예시 이미지](https://github.com/soi23476/osd/blob/707e5622edd130254453dff9db4be316de7279d8/Fabulous%20Fyyran-Jaagub%20(2).png)
 
 ## 구현 단계
 1. 아두이노와 센서 연결 및 테스트
