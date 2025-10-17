@@ -19,7 +19,7 @@ VL53L0X 레이저 거리 센서와 Arduino UNO를 이용하여
 | 전원 | USB 또는 배터리 (휴대형) |
 
 ## 시스템 구성 이미지
-![장치 예시 이미지]({"C:\Users\user\Pictures\056858e5ea637a1636dde91a54937a6f.jpg"})
+![장치 예시 이미지]({"C:\Users\user\Downloads\Fabulous Fyyran-Jaagub (3).png"})
 
 ## 구현 단계
 1. 아두이노와 센서 연결 및 테스트
@@ -41,10 +41,3 @@ VL53L0X 레이저 거리 센서와 Arduino UNO를 이용하여
 - [Arduino 공식 사이트](https://www.arduino.cc/)
 - [Tinkercad 회로 시뮬레이터](https://www.tinkercad.com/)
 
-
-
-# ===== 파일 생성 =====
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_text)
-
-print("✅ README.md 파일이 생성되었습니다!")
